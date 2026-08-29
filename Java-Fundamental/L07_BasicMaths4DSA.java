@@ -217,7 +217,8 @@ public class L07_BasicMaths4DSA {
 
        int n=100;
        primeNumber(n);
+        
 
-//    //----End----
+      //----End----
     }
 }
