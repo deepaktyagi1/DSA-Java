@@ -428,6 +428,8 @@ public class L03_Patterns{
         }
         System.out.println();
       }
-         
+
+
+        // -- END--
     }
 }
