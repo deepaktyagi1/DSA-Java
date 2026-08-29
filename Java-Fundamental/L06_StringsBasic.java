@@ -142,8 +142,9 @@ public class L06_StringsBasic{
         //  }
         //  else{System.out.println("Its not");}
             
-
             sc.close();
-//       //   ----End---
+
+        
+       //   ----End---
     }
 }
